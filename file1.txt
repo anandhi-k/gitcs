@@ -1,1 +1,2 @@
 sample file for auto commit job
+I have updated for Git demo
